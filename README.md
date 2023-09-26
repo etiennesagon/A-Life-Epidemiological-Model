@@ -1,4 +1,5 @@
 # An A-Life epidemiological model
+Etienne Sagon
 ## Abstract
 The increasing of computing power of these last few years has made complex systems simulations easier to carry out. In this article, we try to simulate the propagation of a disease among individuals, who are moving and interacting in an environment. We ran several simulations with different parameters in our model. We found out that a probability of reproduction around 0.5 was not too high and not too low: the population expands not too fast. The results show that the virulence level at which the disease begins is the one that has the biggest impact on the evolution of the system: a virulence too high leads to the end of the population, a virulence too low leads to the end of the disease and the survival of the individuals.
 
